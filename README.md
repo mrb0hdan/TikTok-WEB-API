@@ -77,3 +77,12 @@ Users are **fully responsible for their own actions** when using this API.
 
 ## 📞 Contact
 - Telegram: [@mrb0hdan](https://t.me/mrb0hdan)
+
+## Example TikTok API Responses
+
+This repository includes example responses from TikTok endpoints for testing and development purposes.  
+
+- `examples/get_comments_response.json` — sample response from `/get_comments`
+- `examples/post_comment_response.json` — sample response from `/post_comment`
+- `examples/get_feed_response.json` — sample response from `/get_feed`
+- `examples/get_comments_response.json` — same as JSON but exported as a JS object for direct use
